@@ -2,7 +2,7 @@
 EECS 348 – Lab 10
 Pranav Reddy
 valid.cpp
-____
+check to see if str is valid double, rules specified in lab manual
 */
 #include "valid.h" //now can use isValid
 #include <cctype>   //isdigit() fn to check if char is a number
