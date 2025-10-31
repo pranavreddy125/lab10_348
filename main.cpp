@@ -25,8 +25,7 @@ int main() {
         if (validA && validB) { //if both valid then add and print result
             string sum = addStr(a, b);
             cout << sum << endl;
-        } 
-        else { //if atleast one is invalid then print that
+        } else { //if atleast one is invalid then print that
             cout << "invalid number" << endl;
         }
     }
